@@ -1,10 +1,15 @@
 ## Lectures
 
 [CILVR Reading Group](https://github.com/cilvrRG/RL)
+
 [David Silver @ UCL](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
+
 Nando de Freitas @ UBC
+
 [John Schulman @ MLSS](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
+
 [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/pdf/rl7.pdf)
+
 [Pieter Abbeel @ NIPS 2016](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
 
 ## Books
