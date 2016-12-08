@@ -1,10 +1,21 @@
 Paper notes
 -----------
 
-Work in progress.
+## Reinforcement Learning
 
-Currently contains notes for the following papers:
+1. Policy Gradient Methods
 
-1. Generative Adverserial Imitation Learning (Ho, et al.)
+2. DQN
 
-2. Third Person Imitation Learning (Stadie, et al.)
+3. Multi-agent Learning
+
+4. Guided Policy Search
+
+5. Imitation Learning
+
+6. Transfer Learning
+
+7. NLP
+
+8. Exploration
+
