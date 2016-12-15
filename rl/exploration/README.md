@@ -7,3 +7,5 @@
 [UNREAL](https://arxiv.org/pdf/1611.05397.pdf)
 
 [Variational Information Maximizing Exploration](https://arxiv.org/pdf/1605.09674v2.pdf)
+
+[#EXPLORATION: A Study of Count-based Exploration for Deep Reinforcement Learning](https://arxiv.org/pdf/1611.04717v1.pdf)
