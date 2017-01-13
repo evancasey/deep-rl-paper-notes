@@ -44,3 +44,5 @@ High-dimensional continuous control using generalized advantage estimation
 * https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
 
 [ACER](https://arxiv.org/pdf/1611.01224.pdf)
+
+[Q-Prop](https://arxiv.org/abs/1611.02247)
