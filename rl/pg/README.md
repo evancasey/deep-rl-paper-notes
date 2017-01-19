@@ -42,6 +42,8 @@ High-dimensional continuous control using generalized advantage estimation
 * http://www.allinea.com/blog/201607/tuning-deep-learning-episode-1-deepminds-a3c-torch
 * https://github.com/Kaixhin/Atari/issues/5
 * https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
+* https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2#.gtkdbo3a
+* https://jerrybai1995.github.io/2016-11-30-doom-ai/
 
 [ACER](https://arxiv.org/pdf/1611.01224.pdf)
 
