@@ -29,6 +29,7 @@ Sutton
 * https://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf
 * http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html
 * https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
+* http://techtalks.tv/talks/deterministic-policy-gradient-algorithms/61098/
 
 [TRPO](https://arxiv.org/abs/1502.05477)
 * https://github.com/openai/requests-for-research/pull/22#issuecomment-250386140

@@ -9,6 +9,7 @@ Pierre de lacaze https://vimeo.com/184511491
 * https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html
 * https://medium.com/@awjuliani
 * https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/
+* https://vmayoral.github.io/robots,/ai,/deep/learning,/rl,/reinforcement/learning/2016/08/07/deep-convolutional-q-learning/
 
 [Prioritized experience replay](https://arxiv.org/pdf/1511.05952v4.pdf)
 

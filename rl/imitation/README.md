@@ -7,3 +7,7 @@ Generative Adverserial Imitation Learning (Ho, et al.)
 
 Third Person Imitation Learning (Stadie, et al.)
 
+
+## More resources
+
+http://www.cs.utexas.edu/users/sniekum/classes/RLFD-F16/desc.php
