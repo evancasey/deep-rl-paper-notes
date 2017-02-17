@@ -23,26 +23,28 @@ Paper notes
 
 ### Environments
 
-1. OpenAI Gym
+* OpenAI Gym
 
-* Classic control
-* VizDoom
-* Mujoco (select envs)
+  * Classic control
+  * VizDoom
+  * Mujoco (select envs)
 
-2. OpenAI Universe
+* OpenAI Universe
 
-* Flash games
-* World of bits
+  * Flash games
+  * World of bits
 
-3. Mujoco
+* Mujoco
 
-4. Labyrinth
+* Labyrinth
 
-5. [Malmo](https://github.com/Microsoft/malmo)
+* [Malmo](https://github.com/Microsoft/malmo)
 
-6. [Gym gazebo](https://github.com/erlerobot/gym-gazebo)
+* [Gym gazebo](https://github.com/erlerobot/gym-gazebo)
 
-7. [OpenSim](https://www.crowdai.org/challenges/learning-how-to-walk)
+* [OpenSim](https://www.crowdai.org/challenges/learning-how-to-walk)
+
+* [Euro Truck Simulator](https://github.com/bethesirius/ChosunTruck)
 
 ### More resources
 
