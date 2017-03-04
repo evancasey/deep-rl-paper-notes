@@ -22,3 +22,6 @@
 * Code: 
   * https://github.com/bstadie/third_person_im
 
+### Game Imitation
+* Papers:
+  * [The Game Imitation: Deep Supervised Convolutional Networks for Quick Video Game AI](https://arxiv.org/abs/1702.05663)

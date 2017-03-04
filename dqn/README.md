@@ -3,6 +3,7 @@
 * Learns to play a large number of Atari games. However, the algorithm is extremely sample inefficient.
 * Papers:
   * [Playing Atari with Deep Reinforcement Learning (DQN)](https://arxiv.org/pdf/1312.5602v1.pdf)
+  * [Beating the World's Best at Super Smash Bros. with Deep Reinforcement Learning](https://arxiv.org/abs/1702.06230)
 * Blog posts:
   * http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/
   * https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html
