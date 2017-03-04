@@ -4,8 +4,6 @@
   * [Deep-learning in Mobile Robotics - from Perception to Control Systems: A Survey on Why and Why not](https://arxiv.org/pdf/1612.07139.pdf)
   * [Towards Lifelong Self-Supervision:A Deep Learning Direction for Robotics](https://arxiv.org/pdf/1611.00201v1.pdf)
 
-Tensegrity locomotion
-
 ### Self-driving cars
 * Papers:
   * [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf)
