@@ -21,6 +21,10 @@ Paper notes
 
 9. [Robot learning](./robo)
 
+10. [Memory](./memory)
+
+11. [Navigation](./navigation)
+
 ### Environments
 
 * OpenAI Gym
