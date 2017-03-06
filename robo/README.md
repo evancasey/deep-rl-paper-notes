@@ -1,4 +1,22 @@
 ### Surveys
+* CNNs overgeneralize:
+  * can be more robust if you give it more than just RGB images (depth, tactile information with physical adversarial entities)
+  * pixel level segmentation + object detection need for rule-based navigation —> how to connect this to motor control?
+
+* GPS
+   * Used heuristic for classifying grasp examples
+
+* Most game playing deep RL is on fully observable environments
+  * most real world applications are partially observable
+  * transfer from sim to real often requires massaging the scene to mimic the simulation setting
+  * progressive nets pose one possible solution but assumes known task boundaries and exhibits quadratic parameter growth when a new column is necessary for each novel domain. results on real world were still highly constrained
+  * work being done for domain alignment by Tzeng et al (Towards adapting deep visuomotor representations from simulated to real environments), but this requires paired synthetic and real views of the same scene to adapt the deep visual representations.
+
+* Ultimately, robots must collect their own training data in the real world (self-supervision)
+  * Current work doesn’t address continual learning, need framework for robots to collect and label examples themselves
+  * Proposed solution: hierarchical set of motor behaviors + intrinsic motivation (information theoretic measures)
+
+
 * Papers:
   * [Deep reinforcement learning for robotic manipulation-the state of the art](https://arxiv.org/pdf/1701.08878v1.pdf)
   * [Deep-learning in Mobile Robotics - from Perception to Control Systems: A Survey on Why and Why not](https://arxiv.org/pdf/1612.07139.pdf)
