@@ -2,6 +2,12 @@
 * Papers:
   * https://arxiv.org/pdf/1011.0686.pdf
 
+###DQfD
+* Papers:
+  * Doesn't require using expert during training?
+  * [Learning from Demonstrations for Real World Reinforcement Learning](https://arxiv.org/pdf/1704.03732.pdf)
+
+
 ### Model-Free Imitation Learning with Policy Optimization
 * Papers:
   * [Model-Free Imitation Learning with Policy Optimization](http://cs.stanford.edu/people/hoj/files/HoGuptaErmon_ICML2016.pdf)

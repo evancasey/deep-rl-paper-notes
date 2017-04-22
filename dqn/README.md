@@ -35,3 +35,7 @@
 ### Q-Prop
 * Papers:
   * [Q-Prop](https://arxiv.org/abs/1611.02247)
+
+### Reactor
+* Papers:
+  * [The Reactor: A Sample-Efficient Actor-Critic Architecture](https://arxiv.org/pdf/1704.04651.pdf)

@@ -7,7 +7,7 @@ Paper notes
 
 2. [DQN](./dqn)
 
-3. [Multi-agent Learning](./multi_agent)
+3. [Multi-agent Learning](./multi-agent)
 
 4. [Guided Policy Search](./gps)
 
@@ -24,6 +24,8 @@ Paper notes
 10. [Memory](./memory)
 
 11. [Navigation](./navigation)
+
+12. [Evolutionary](./es)
 
 ### Environments
 
@@ -75,3 +77,5 @@ Nando de Freitas @ UBC
 [Pieter Abbeel @ NIPS 2016](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
 
 Nuts and bolts of RL
+
+[Sergey Levine RL Seminar](https://www.youtube.com/watch?v=eKaYnXQUb2g&feature=youtu.be)
